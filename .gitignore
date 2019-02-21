@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs
+/GeekHunterASPTests/bin/Debug
+/GeekHunterASPTests/obj/Debug
+/GeekHunterASP/bin
+/GeekHunterASP/obj
