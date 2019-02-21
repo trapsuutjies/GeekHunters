@@ -1,6 +1,7 @@
 I've created a basic one page system to recruit geeks.
 I included the packages folder in the solution for your convenience.
 Please get in touch if something is unclear or you'd like to discuss my solution.
+hendrik.neethling@gmail.com
 
 # Geek Hunters - Original file for reference.
 
