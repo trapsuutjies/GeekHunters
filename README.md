@@ -1,4 +1,12 @@
-# Geek Hunters
+
+I've created a basic one page system to recruit geeks.
+I included the packages folder in the solution for your convenience.
+Please get in touch if something is unclear or you'd like to discuss my solution.
+hendrik.neethling@gmail.com
+
+
+Original file:
+# Geek Hunters 
 
 You are working at IT-recruiting agency "Geek Hunters". Your employer asked you to implement Geek Registration System
 (GRS). 
